@@ -2,7 +2,7 @@
 
 This repository is your starting point for this in-class assignment. 
 
-Link to your GitHub pages website: `[https://github.com/jchun0627/James-Chun-Repo.git]`
+Link to your GitHub pages website: `[]`
 
 # Aim of the assignment
 Build comfort with how to use git, GitHub Pages, JS, HTML, and D3. 
